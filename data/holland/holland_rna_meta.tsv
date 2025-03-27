@@ -1,0 +1,125 @@
+id	accession	target	platform	info	effect	type_exp	sign	
+1	gene:1004	GSE10809	SOX7	GPL570	Embryonic stem cells	overexpression	single gene perturbation	1
+2	gene:1007	GSE22139	MYC	GPL570	DAOY M2.1 cells	knockdown	single gene perturbation	-1
+3	gene:1016	GSE8646	TP63	GPL570	H1299 cells	knockdown	single gene perturbation	-1
+4	gene:1079	GSE35511	ZNF217	GPL570	breast cancer	overexpression	single gene perturbation	1
+5	gene:118	GSE29084	HNF4A	GPL570	HepG2 hepatocellular carcinoma cells	knockdown	single gene perturbation	-1
+6	gene:1244	GSE28645	NCOA1	GPL570	LY2	knockdown	single gene perturbation	-1
+7	gene:1257	GSE45417	ZXDC	GPL570	U937	knockdown	single gene perturbation	-1
+8	gene:1271	GSE10809	SOX7	GPL570	embryonic stem cells	overexpression	single gene perturbation	1
+9	gene:1272	GSE10809	SOX17	GPL570	CA1 and CA2 embryonic stem cell (ESC)	overexpression	single gene perturbation	1
+10	gene:1288	GSE29639	RUNX1	GPL570	Analysis of ETV6/RUNX1 (E/R) fusion gene-positive in BCP ALL cell lines (REH) following E/R knockdown	knockdown	single gene perturbation	-1
+11	gene:1357	GSE25417	HNF4A	GPL570	hepatic differentiated from ES cell	knockdown	single gene perturbation	-1
+12	gene:136	GSE5823	MYC	GPL570	Hela cells	knockdown	single gene perturbation	-1
+13	gene:1369	GSE55204	FOXM1	GPL96	MCF-7 breast adenocarcinoma cells	knockdown	single gene perturbation	-1
+14	gene:137	GSE5823	MYC	GPL570	BT-474 BREAST CANCER cell line	knockdown	single gene perturbation	-1
+15	gene:139	GSE5823	MYC	GPL570	MCF-7 BREAST CANCER cell line	knockdown	single gene perturbation	-1
+16	gene:140	GSE5823	MYC	GPL570	MDA-MB-231 BREAST CANCER cell line	knockdown	single gene perturbation	-1
+17	gene:1408	GSE35965	SALL4	GPL6244	"SNU-398, Hepatocellular carcinoma cell line"	knockdown	single gene perturbation	-1
+18	gene:1431	GSE58475	NR4A2	GPL570	HB-1 cells	overexpression	single gene perturbation	1
+19	gene:1434	GSE51382	FOXP1	GPL570	memory B cells	overexpression	single gene perturbation	1
+20	gene:1435	GSE51382	FOXP1	GPL570	memory B cells	knockdown	single gene perturbation	-1
+21	gene:1471	GSE51382	FOXP1	GPL570	memory B cells	overexpression	single gene perturbation	1
+22	gene:150	GSE10809	SOX7	GPL570	HESC (CA1 and CA2)	overexpression	single gene perturbation	1
+23	gene:151	GSE10809	SOX17	GPL570	HESC (CA1 and CA2)	overexpression	single gene perturbation	1
+24	gene:1548	GSE7102	SP3	GPL571	Jurkat T cells	knockdown	single gene perturbation	-1
+25	gene:1558	GSE65363	NFKB1	GPL570	U-87 MG glioma cells	knockdown	single gene perturbation	-1
+26	gene:156	GSE43459	ETS2	GPL6244	H441	knockdown	single gene perturbation	-1
+27	gene:157	GSE43021	ZFX	GPL6244	NOMO1	knockdown	single gene perturbation	-1
+28	gene:163	GSE22875	OTX2	GPL570	D425 medulloblastoma (MB) cells	knockdown	single gene perturbation	-1
+29	gene:1710	GSE40695	REST	GPL6244	NSCs	knockdown	single gene perturbation	-1
+30	gene:1740	GSE2815	MYB	GPL96	MCF7 cells	overexpression	single gene perturbation	1
+31	gene:1775	GSE42637	LEF1	GPL570	BL2	knockdown	single gene perturbation	-1
+32	gene:1784	GSE1676	TP53	GPL201	HEK293 cells	knockdown	single gene perturbation	-1
+33	gene:1787	GSE1676	RELA	GPL201	HEK293 cells	knockdown	single gene perturbation	-1
+34	gene:1815	GSE45838	BCL6	GPL570	cell type: B-cell cell line: OCI-Ly7 DLBCL	knockdown	single gene perturbation	-1
+35	gene:1816	GSE45838	BCL6	GPL570	cell type: B-cell cell line: Pfeiffer DLBCL	knockdown	single gene perturbation	-1
+36	gene:2075	GSE5823	MYC	GPL570	cancer_cell_lines	knockdown	single gene perturbation	-1
+37	gene:2081	GSE14964	YY2	GPL570	hela	knockdown	single gene perturbation	-1
+38	gene:2142	GSE12762	HSF1	GPL6244	RKO_colon_carcinoma	knockdown	single gene perturbation	-1
+39	gene:2148	GSE42979	STAT3	GPL571	A549	knockdown	single gene perturbation	-1
+40	gene:2153	GSE21129	ETS1	GPL6244	2008_ovarian_cancer_cells	overexpression	single gene perturbation	1
+41	gene:2154	GSE2816	MYB	GPL570	primary_monocytes	overexpression	single gene perturbation	1
+42	gene:2160	GSE21657	DLX4	GPL201	MCFdash7	overexpression	single gene perturbation	1
+43	gene:2162	GSE31092	ZNF148	GPL571	erythroblast	knockdown	single gene perturbation	-1
+44	gene:2194	GSE22483	AR	GPL570	LNCaP	knockdown	single gene perturbation	-1
+45	gene:2206	GSE5823	MYC	GPL570	BT-474	knockdown	single gene perturbation	-1
+46	gene:2212	GSE38332	NFE2L2	GPL570	cell line: A549 cell type: Lung adenocarcinoma	knockdown	single gene perturbation	-1
+47	gene:2219	GSE37935	SP1	GPL570	cell line: HeLa cell type: human Cervical Carcinoma genotype/variation: parental	knockdown	single gene perturbation	-1
+48	gene:2220	GSE5823	MYC	GPL570	MCF-7	knockdown	single gene perturbation	-1
+49	gene:2226	GSE5823	MYC	GPL570	MDA-MB-231	knockdown	single gene perturbation	-1
+50	gene:2231	GSE52108	EGR3	GPL570	Human prostate cancer cells M12	knockdown	single gene perturbation	-1
+51	gene:2233	GSE52108	EGR3	GPL570	Human prostate cancer cells M12	knockdown	single gene perturbation	-1
+52	gene:2234	GSE44943	HIF1A	GPL6244	Heptaocellular carcinoma cell line HepG2	knockdown	single gene perturbation	-1
+53	gene:2235	GSE44943	HIF1A	GPL6244	"Heptaocellular carcinoma cell line HepG2 cells were infected with S. aureus 8325-4 (MOI: 20) for four hours (5 % CO2, 96 % humidity and 37 &Acirc;&deg;C)"	knockdown	single gene perturbation	-1
+54	gene:2262	GSE16524	TWIST2	GPL570	Skin fibroblast	knockdown	single gene perturbation	-1
+55	gene:2323	GSE22606	SRF	GPL570	LNCaP cells treated with ethanol	knockdown	single gene perturbation	-1
+56	gene:2326	GSE37820	ESR1	GPL570	MCF7	knockdown	single gene perturbation	-1
+57	gene:2327	GSE22606	SRF	GPL570	LNCaP cells treated with R1881	knockdown	single gene perturbation	-1
+58	gene:2341	GSE16238	MECOM	GPL570	cell line: HTB-58 gender: male age: 65 years race: Caucasian disease: squamous cell carcinoma of the lung sirna: anti-Evi1	knockdown	single gene perturbation	-1
+59	gene:2342	GSE16238	MECOM	GPL570	cell line: TF-1 gender: male age: 35 years disease: erythroleukemia (AML M6) siRNA Evi1	knockdown	single gene perturbation	-1
+60	gene:2385	GSE5679	RARA	GPL570	Dendritic cells  (DCs)	overexpression	single gene perturbation	1
+61	gene:2439	GSE23674	NFXL1	GPL571	cell line: HCT116 Human colon cancer shRNA expressing: NFX1-91	knockdown	single gene perturbation	-1
+62	gene:2453	GSE20286	TP63	GPL571	MCF-10A mammary epithelial cell line	knockdown	single gene perturbation	-1
+63	gene:2454	GSE20286	TP63	GPL571	MCF-10A mammary epithelial cell line	overexpression	single gene perturbation	1
+64	gene:2455	GSE20286	TP63	GPL571	MCF-10A mammary epithelial cell line	overexpression	single gene perturbation	1
+65	gene:2522	GSE20736	NFKB1	GPL570	Differentiating glioblastoma-initiating cells	overexpression	single gene perturbation	1
+66	gene:2573	GSE20667	NFKB1	GPL570	T-ALL (Leukemia cell line)	knockdown	single gene perturbation	-1
+67	gene:2574	GSE20667	NFKB1	GPL570	CEM (leukemia cell line)	knockdown	single gene perturbation	-1
+68	gene:2575	GSE20667	NFKB1	GPL570	KOPT-K (Leukemia cell line)	knockdown	single gene perturbation	-1
+69	gene:2576	GSE20667	NFKB1	GPL570	DND41 (Leukemia cell line)	knockdown	single gene perturbation	-1
+70	gene:2577	GSE20667	NFKB1	GPL570	HPB-ALL (Leukemia cell line)	knockdown	single gene perturbation	-1
+71	gene:2606	GSE40985	SPDEF	GPL570	MCF7 cells	knockdown	single gene perturbation	-1
+72	gene:2628	GSE16219	NR2C2	GPL570	HuT-102 cells	knockdown	single gene perturbation	-1
+73	gene:2702	GSE5823	MYC	GPL570	HeLa	knockdown	single gene perturbation	-1
+74	gene:2714	GSE52452	NR2C2	GPL6244	Y375C	knockdown	single gene perturbation	-1
+75	gene:2735	GSE39890	FOXL2	GPL570	COV434 cells	overexpression	single gene perturbation	1
+76	gene:2737	GSE39890	FOXL2	GPL570	COV434 cells	overexpression	single gene perturbation	1
+77	gene:2739	GSE39890	FOXL2	GPL570	KGN	knockdown	single gene perturbation	-1
+78	gene:2757	GSE16249	PAX3	GPL570	NZM15	knockdown	single gene perturbation	-1
+79	gene:2762	GSE45804	DNMT1	GPL6244	MCF-7 BREAST CANCER cell line	knockdown	single gene perturbation	-1
+80	gene:2764	GSE51382	FOXP1	GPL570	OCI-Ly10	knockdown	single gene perturbation	-1
+81	gene:2854	GSE43741	HMGA2	GPL6244	1833	knockdown	single gene perturbation	-1
+82	gene:2855	GSE43741	TET1	GPL6244	1833	overexpression	single gene perturbation	1
+83	gene:2863	GSE34589	ELK1	GPL570	LNCaP	knockdown	single gene perturbation	-1
+84	gene:2865	GSE34589	ELK1	GPL570	LNCaP+R1881	knockdown	single gene perturbation	-1
+85	gene:2879	GSE55667	KLF2	GPL570	Myeloma cells	knockdown	single gene perturbation	-1
+86	gene:2888	GSE43459	ETS2	GPL6244	H441	knockdown	single gene perturbation	-1
+87	gene:2892	GSE15481	TFAP2C	GPL570	MCF-7 breast tumor cell line	knockdown	single gene perturbation	-1
+88	gene:2893	GSE15481	TFAP2C	GPL570	MCF-7 breast tumor cell line	knockdown	single gene perturbation	-1
+89	gene:2895	GSE15481	TFAP2C	GPL570	MCF-7 breast tumor cell line	knockdown	single gene perturbation	-1
+90	gene:2931	GSE64101	POU1F1	GPL6244	MCF-7 breast adenocarcinoma  cell line	overexpression	single gene perturbation	1
+91	gene:2956	GSE59234	SOX2	GPL6244	2102Ep human embryonal carcinoma cell line	knockdown	single gene perturbation	-1
+92	gene:2957	GSE59234	SOX2	GPL6244	NTera-2 human embryonal carcinoma cell line	knockdown	single gene perturbation	-1
+93	gene:2964	GSE15481	TFAP2C	GPL570	siRNA treated MCF-7 breast carcinoma cell line	knockdown	single gene perturbation	-1
+94	gene:2968	GSE15481	TFAP2C	GPL570	siRNA treated MCF-7 breast carcinoma cell line	knockdown	single gene perturbation	-1
+95	gene:2970	GSE15481	TFAP2C	GPL570	siRNA treated MCF-7 breast carcinoma cell line	knockdown	single gene perturbation	-1
+96	gene:2973	GSE17300	USF1	GPL570	cell line: HEK293T	overexpression	single gene perturbation	1
+97	gene:2976	GSE16267	TFEB	GPL6244	HeLa	overexpression	single gene perturbation	1
+98	gene:2987	GSE51901	TET1	GPL6244	CCIT human embryonic carcinoma cells	knockdown	single gene perturbation	-1
+99	gene:3044	GSE45417	ZXDC	GPL570	myeloid	knockdown	single gene perturbation	-1
+100	gene:34	GSE43459	ETS2	GPL6244	H441 lung cancer cells	knockdown	single gene perturbation	-1
+101	gene:344	GSE35511	ZNF217	GPL570	MDA-MB-231 breast cancer cells	overexpression	single gene perturbation	1
+102	gene:346	GSE42937	SOX2	GPL6244	AZ-521 gastric cancer (GC) cell line - 8 Hours	knockdown	single gene perturbation	-1
+103	gene:347	GSE42937	SOX2	GPL6244	AZ-521 gastric cancer (GC) cell line - 12 Hours	knockdown	single gene perturbation	-1
+104	gene:348	GSE42937	SOX2	GPL6244	AZ-521 gastric cancer (GC) cell line - 18 Hours	knockdown	single gene perturbation	-1
+105	gene:349	GSE42937	SOX2	GPL6244	AZ-521 gastric cancer (GC) cell line - 24 Hours	knockdown	single gene perturbation	-1
+106	gene:353	GSE34763	SOX11	GPL570	Z138 mantle cell lymphoma (MCL) cells	knockdown	single gene perturbation	-1
+107	gene:359	GSE43730	MYC	GPL6244	MCF10A - immortalized breast epithelial cell line	overexpression	single gene perturbation	1
+108	gene:371	GSE14773	SNAI1	GPL570	SW480 - Colorectal cancer cell line	overexpression	single gene perturbation	1
+109	gene:478	GSE26262	TP53	GPL571	MDA-MB-231 breast cancer cells (depleted of MUTANT-p53)	knockdown	single gene perturbation	-1
+110	gene:479	GSE26298	ESR1	GPL570	MCF7 estrogen-sensitive breast cancer cells	knockdown	single gene perturbation	-1
+111	gene:480	GSE27473	ESR1	GPL570	MCF7 breast cancer cells	knockdown	single gene perturbation	-1
+112	gene:501	GSE17251	PPARA	GPL570	Isolated hepatocytes	overexpression	single gene perturbation	1
+113	gene:515	GSE14964	YY1	GPL570	HeLa	knockdown	single gene perturbation	-1
+114	gene:517	GSE14964	YY2	GPL570	HeLa	knockdown	single gene perturbation	-1
+115	gene:531	GSE45417	ZXDC	GPL570	U937	knockdown	single gene perturbation	-1
+116	gene:577	GSE29084	HNF4A	GPL570	HepG2	knockdown	single gene perturbation	-1
+117	gene:643	GSE36855	GLI1	GPL6244	Panc-1 cells	knockdown	single gene perturbation	-1
+118	gene:649	GSE24249	GATA3	GPL570	Basal Breast Cancer Cells	overexpression	single gene perturbation	1
+119	gene:712	GSE22139	MYC	GPL570	medulloblastoma	knockdown	single gene perturbation	-1
+120	gene:87	GSE8562	XBP1	GPL96	MCF7 breast cancer cells	overexpression	single gene perturbation	1
+121	gene:885	GSE45417	ZXDC	GPL570	U937	knockdown	single gene perturbation	-1
+122	gene:888	GSE28645	NCOA1	GPL570	LY2 breast cancer cells	knockdown	single gene perturbation	-1
+123	gene:90	GSE5993	TP63	GPL570	ME180 cervical carcinoma cells	knockdown	single gene perturbation	-1
+124	gene:941	GSE2815	MYB	GPL96	human cell line	overexpression	single gene perturbation	1
