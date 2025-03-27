@@ -174,9 +174,9 @@ def TIGER(expr, prior, method="VB", TFexpressed=True, signed=True, baseline=True
                 missing_tfs = set(TF_names) - set(prior_filtered.index)
                 if missing_tfs:
                     TF_not_expressed_edge = prior.loc[list(missing_tfs), prior_filtered.columns]
-                    # 保持符号但将绝对值变小
+                    # 将所有非零值改为1e-6，不保留符号
                     non_zero = TF_not_expressed_edge != 0
-                    TF_not_expressed_edge[non_zero] = np.sign(TF_not_expressed_edge[non_zero]) * 1e-6
+                    TF_not_expressed_edge[non_zero] = 1e-6
                     prior_filtered = pd.concat([prior_filtered, TF_not_expressed_edge])
                     prior_filtered = prior_filtered.sort_index()
                     prior_filtered = prior_filtered.loc[(prior_filtered != 0).any(axis=1)]
